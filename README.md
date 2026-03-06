@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Lee SeYoung
 
-🤖 **AI Developer | I'm learning about AI**
+**AI Developer | I'm learning about AI**
 
 ---
 
-## 🎯 About Me
+## About Me
 
 I'm a passionate AI developer dedicated to building intelligent solutions and solving real-world problems with machine learning.
 
@@ -15,7 +15,7 @@ I'm a passionate AI developer dedicated to building intelligent solutions and so
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
