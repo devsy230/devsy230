@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Lee SeYoung
 
-🤖 **AI Developer | Machine Learning Engineer | Python**
+🤖 **AI Developer | I'm learning about AI**
 
 ---
 
