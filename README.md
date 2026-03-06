@@ -8,10 +8,10 @@
 
 I'm a passionate AI developer dedicated to building intelligent solutions and solving real-world problems with machine learning.
 
-- 🧠 Focused on Machine Learning & Deep Learning development
-- 🚀 Constantly exploring new AI technologies and methodologies
-- 💻 Enthusiastic about clean code and efficient solutions
-- 🤝 Interested in collaborative projects and open-source contributions
+- Focused on Machine Learning & Deep Learning development
+- Constantly exploring new AI technologies and methodologies
+- Enthusiastic about clean code and efficient solutions
+- Interested in collaborative projects and open-source contributions
 
 ---
 
@@ -36,7 +36,7 @@ I'm a passionate AI developer dedicated to building intelligent solutions and so
 
 ## 📌 Featured Projects
 
-### 🎯 Image Classification with Deep Learning
+### Image Classification with Deep Learning
 **Tech Stack:** Python | PIL/Pillow | File Processing
 
 A powerful utility tool that extracts both text content and embedded images from DOCX files. This project demonstrates practical file processing, data extraction, and image handling capabilities.
@@ -54,15 +54,15 @@ A powerful utility tool that extracts both text content and embedded images from
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
-- 🤖 **AI Agents** - Building autonomous AI systems
-- 🔬 **Deep Learning & Machine Learning** - Advanced techniques and best practices
-- 📚 **Open Source Contributions** - Collaborating with the community
+- **AI Agents** - Building autonomous AI systems
+- **Deep Learning & Machine Learning** - Advanced techniques and best practices
+- **Open Source Contributions** - Collaborating with the community
 
 ---
 
-## 🎓 Education
+## Education
 
 **Bachelor's Degree**
 - Kumoh National Institute of Technology
@@ -73,13 +73,13 @@ A powerful utility tool that extracts both text content and embedded images from
 
 ---
 
-## 📫 Contact & Links
+## Contact & Links
 
 - Email: lee30228409@gmail.com
 
 ---
 
-## 💡 Fun Facts
+## Fun Facts
 
 - Passionate about understanding development principles and system processes
 - Deeply interested in exploring various AI development domains
